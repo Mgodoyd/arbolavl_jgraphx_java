@@ -31,7 +31,7 @@ public class jgraphxe extends JFrame {
                     Object v[]= new Object[4];
                      int nodo []={4,10,15,11};
                   //String arb[]={"10","15","11","5"};
-                  //  arbol.orden(nodo);
+                 
      
                     for(int i=0; i<4; i++){
                         v[i]=new Object();
